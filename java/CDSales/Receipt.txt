@@ -1,0 +1,8 @@
+Jack Johnson CD $19.99
+Zee Avi CD $14.95
+Led Zeppelin CD $9.79
+GoGos CD $7.99
+subtotal, $52.72
+shipping, $5.95
+tax, $8.25
+total, $66.92
